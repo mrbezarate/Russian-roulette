@@ -4,7 +4,7 @@ A simple Python script that simulates the dangerous game of Russian Roulette wit
 
 ## Description
 
-This program simulates a game of Russian Roulette with your System32 folder. It generates a random number between 1 and 6, and if the number is 1, it attempts to delete the Windows System32 directory. Otherwise, it displays a "You are safe!" message.
+This program simulates a game of Russian Roulette with your System32 folder. It generates a random number between 1 and 6, and if the number is 1, it attempts to delete the Windows System32 directory.[...]
 
 ## Warning ⚠️
 
@@ -24,6 +24,8 @@ This program should only be run in a secure, controlled environment such as:
 - A sandbox environment
 - A teaching environment with appropriate restrictions
 
+**Important:** The script must be run with administrator privileges.
+
 ## Requirements
 
 - Python 3.x
@@ -31,4 +33,4 @@ This program should only be run in a secure, controlled environment such as:
 
 ## License
 
-This project is intended for educational purposes only. 
+This project is intended for educational purposes only.
